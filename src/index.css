@@ -1,0 +1,12 @@
+.App {
+  display: inline-flex;
+  margin: 10px 30px;
+}
+
+.container {
+  margin: 2px 4px;
+}
+
+.userInfo {
+  display: inline-block;
+}
